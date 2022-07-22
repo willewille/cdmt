@@ -1,4 +1,4 @@
-from RPi.GPIO as GPIO
+from RPi.GPIO import GPIO
 from time import sleep
 
 Motor1A = 27
